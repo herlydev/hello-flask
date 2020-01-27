@@ -1,0 +1,8 @@
+How to start a new git rep
+$ git init
+
+add all items to the repo
+$ git add .
+
+commit your changes to be saved
+
