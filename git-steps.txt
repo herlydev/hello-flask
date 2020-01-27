@@ -8,6 +8,7 @@ commit your changes to be saved
  -  Best practice to say initial commit when its the first 
 
 $ git commit -m "commit message"
+$ git push
 
-for your first time go to github and create a new repo
-copy 
+for your first time go to github and create a new repo folder
+
