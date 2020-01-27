@@ -5,4 +5,9 @@ add all items to the repo
 $ git add .
 
 commit your changes to be saved
+ -  Best practice to say initial commit when its the first 
 
+$ git commit -m "commit message"
+
+for your first time go to github and create a new repo
+copy 
