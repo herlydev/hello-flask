@@ -9,13 +9,21 @@ The following project was built during my course with Bottega.  It has full CRUD
   - https://flask-sqlalchemy.palletsprojects.com/en/2.x/
 - MARSHMALLOW-SQLALCHEMY
   - https://marshmallow-sqlalchemy.readthedocs.io/en/latest/
+
 ## Commands to follow after downloading
+- Get to the location of the folder you want to install
 - Install all the dependencies
--Get to the location of the folder you want to install
+- 
 ```
 $ pipenv install
 ```
+- Enter a pipenv shell first
+```
+$ pipenv shell
+```
+
 ### Create Database
+- Note: Check downloaded files, if *.sqlite exist in downloaded folder then skip this portion of creating database 
 - If you need to create a database.  Hop into a python repl and run the following commands.
 - When you're done you should have an app.sqlite file.  That file will be your database.
 ```
